@@ -1,6 +1,6 @@
 // Anchor.js
 // JavaScript Game Engine / Framework
-// 460games
+// 460games - Luke4Projects
 
 var canvas = document.getElementById("canv");
 var c = canvas.getContext("2d");
